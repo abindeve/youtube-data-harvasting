@@ -22,3 +22,5 @@ This project fetches data from the YouTube API, stores it in MongoDB and from  M
 
    ```bash
    git clone https://github.com/abindeve/youtube-data-harvasting.git
+2. Install the required dependency
+        pip install -r requirements.txt 
